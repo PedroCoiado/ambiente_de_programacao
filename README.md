@@ -155,6 +155,14 @@ sudo apt install gcc -y
 
 Precisamos instalar uma extensão no VCSode para acessar o nosso servidor de forma remota.
 
+<img src=extensaossh.png>
+
+Configuração do acesso remoto.
+
+<img src=configurar_extensao.png width=400 height=100>
+
+
+
 
 
 
